@@ -1,8 +1,8 @@
 ## Welcome to my React Calculator!
 
-![React-calc](https://i.imgur.com/FXsH6vw.png)
-
 This is a single page app that I built using [this](https://blog.usejournal.com/everything-react-first-app-188b33a880ca) tutorial as a guide.
+
+![React-calc](https://i.imgur.com/FXsH6vw.png)
 
 ## Purpose
 
